@@ -1,0 +1,22 @@
+body{
+    background-color: #434247;
+}
+h1{
+    color: #c3aaa5;
+    text-align: center;
+}
+p{
+    color: #0d0c0c;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+.p1{
+    color: #f6e5cb;
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
